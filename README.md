@@ -1,3 +1,21 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=350&section=header&text="Welcome%20to%20my%20room"&desc=chasing%20the%20passion&descAlign=80&fontSize=70&fontColor=ffff&animation=twinkling)
+
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:ffffcc,100:ffccff&height=130&desc=sungmin43's%20profile&descAlign=70&descAlignY=60&descSize=45&fontColor=888888&animation=scaleIn)
+
+
+
+
+
+
+![sungmin43's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin43&theme=vue&show_icons=true)
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&color=FFCCCC)
+
+
+
 ### Hi there 👋
 
 <!--
