@@ -16,7 +16,7 @@
 
 
 
-https://capsule-render.vercel.app/api?
+
 
 ### Hi there 👋
 
