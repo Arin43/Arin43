@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:ffffcc,100:ffccff&height=130&desc=sungmin43's%20profile&descAlign=70&descAlignY=60&descSize=45&fontColor=888888&animation=scaleIn)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=webfkana43)](https://solved.ac/webfkana43/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomduri43)](https://solved.ac/gomduri43/)
 
 
 
